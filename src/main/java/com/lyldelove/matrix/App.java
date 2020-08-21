@@ -13,5 +13,7 @@ public class App {
 
     public static void main( String[] args ) {
         System.out.println( "Hello World!" );
+        //Class<?> a = Class.forName("a");
+        //new Test().test();
     }
 }
